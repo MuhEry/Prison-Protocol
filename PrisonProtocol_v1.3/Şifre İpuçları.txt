@@ -1,0 +1,58 @@
+3.Hafta Şifreli Mektup
+-----------------------------------------------
+Kimden: 
+Kime: Kureyhan (Mahkum #000)
+
+24121518281181714629518142517 
+2112221 22 212 12222
+-----------------------------------------------
+1. Sayı dizisi: 24121518281181714629518142517 
+Buradaki sayılar alfabedeki harfleri temsil ediyor.
+
+2. Sayı dizisi: 2112221 22 212 12222
+Buradaki sayılar ise 1. sayı dizisinden kaç hane 
+aralıklarla boşluk bırakmamız gerektiğini gösteriyor.
+
+Örneğin 2. sayı dizisinde ilk sayı 2 olduğu için iki hane
+ilerleyip boşluk bırakıyoruz (24_)
+2. sayı dizisinde ikinci sayı 1 olduğu için 1 hane daha ilerleyip
+tekrar boşluk bırakıyoruz (24_1_).
+24_1_2_15_18_28_1... şeklinde sayıları ayırıp alfabetik sıraya göre 
+harflere çevirerek şifre çözüyoruz.
+(2. sayı dizisindeki boşluklar kelimeler arası boşluklardır)
+
+
+11. Hafta Şifreli Mektup
+------------------------------------------------------------------------------
+Kimden: Wanda Silva
+Kime: Marco Silva (Mahkum #297)
+
+Presta toda tu atención ahora:
+Un burro comía berros y el perro se los robó.
+El burro lanzó un rebuzno y el perro al barro cayó.
+11 12 13 14 96  121 52 22 44 43  21 92 183  31 46 83 202 131
+------------------------------------------------------------------------------
+Buradaki sayı dizisi hangi kelimenin kaçıncı harfini alacağımızı temsil ediyor.
+Örnekler:
+11 = 1. kelime 1. harf (Presta -> P)
+96 = 9. kelime 6. harf (berros -> S)
+183 = 18. kelime 3. harf (lanzó -> N)
+202 = 20. kelime 2. harf (rebuzno -> E)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
